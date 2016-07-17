@@ -1,9 +1,0 @@
-[connection]
-id=gsm-ttyUSB2
-uuid=60504618-d2e3-4014-b8cc-b49a1ca9e44c
-type=gsm
-autoconnect=true
-
-[gsm]
-number=*99#
-apn=pinternet.interkom.de
